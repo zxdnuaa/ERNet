@@ -1,9 +1,9 @@
-﻿# ERCNet: A Rapid Road Cracks Detection Method from Low-Altitude UAV Remote Sensing Image
+﻿# ERNet: A Rapid Road Cracks Detection Method from Low-Altitude UAV Remote Sensing Image
 
-![The overview structure of ERCNet](resources/1.png)
+![The overview structure of ERNet](resources/1.png)
 
 
-> The repository contains official Pytorch implementations of training and evaluation codes for ERCNet.
+> The repository contains official Pytorch implementations of training and evaluation codes for ERNet.
 
 > The code is based on [MMSegmentaion v0.24.1](https://github.com/open-mmlab/mmsegmentation/tree/v0.24.1).
 
